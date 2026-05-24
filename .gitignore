@@ -1,0 +1,7 @@
+venv/
+frames/
+input.mp4
+output.mp4
+result.mp4
+best_model.pth
+.env
